@@ -1,1 +1,1 @@
-print("amin")
+print("aminnn")
